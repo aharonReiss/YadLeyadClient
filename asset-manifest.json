@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/yad-leyad-client/static/css/main.fe8d2271.css",
-    "main.js": "/yad-leyad-client/static/js/main.15d0dcad.js",
+    "main.js": "/yad-leyad-client/static/js/main.602e07b2.js",
     "index.html": "/yad-leyad-client/index.html",
     "main.fe8d2271.css.map": "/yad-leyad-client/static/css/main.fe8d2271.css.map",
-    "main.15d0dcad.js.map": "/yad-leyad-client/static/js/main.15d0dcad.js.map"
+    "main.602e07b2.js.map": "/yad-leyad-client/static/js/main.602e07b2.js.map"
   },
   "entrypoints": [
     "static/css/main.fe8d2271.css",
-    "static/js/main.15d0dcad.js"
+    "static/js/main.602e07b2.js"
   ]
 }
