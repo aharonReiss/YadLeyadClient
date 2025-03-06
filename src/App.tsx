@@ -4,7 +4,7 @@ import Navigation from './components/Navigation/Navigation';
 import Footer from './components/Footer/Footer';
 import RoutesComponent from './components/Routes/RoutesComponent';
 import './App.css';
-import { BrowserRouter } from 'react-router-dom';
+import { BrowserRouter, HashRouter } from 'react-router-dom';
 
 
 const App: React.FC = () => {
